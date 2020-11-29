@@ -47,5 +47,4 @@ class Products_page {
 
     }
 }
-
 export const productPage = new Products_page()

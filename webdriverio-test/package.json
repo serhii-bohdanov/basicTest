@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "price_navigator": "wdio wdio.conf.js --suite price_navigator"
+    "price_navigator": "wdio wdio.conf.js --suite price_navigator",
+    "rozetka": "wdio wdio.conf.js --suite rozetka"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +16,7 @@
     "@wdio/mocha-framework": "^6.7.0",
     "@wdio/spec-reporter": "^6.7.0",
     "@wdio/sync": "^6.7.2",
-    "chromedriver": "^86.0.0",
+    "chromedriver": "^87.0.0",
     "wdio-chromedriver-service": "^6.0.4",
     "@types/chai": "^4.2.11",
     "@types/faker": "^4.1.12",

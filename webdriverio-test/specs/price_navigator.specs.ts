@@ -1,4 +1,4 @@
-import {home} from "../pageobjects/home";
+import {home} from "../sites/price_navigator/home";
 
 describe("Find Price Of Coffee",() => {
     it("Find the cheapest coffee using certain filters", () =>{
