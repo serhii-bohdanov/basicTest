@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4c86ceb-622b-4e4a-ae8f-ab002a414907" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/node_modules/chromedriver/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/node_modules/chromedriver/lib/chromedriver.js" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/node_modules/chromedriver/lib/chromedriver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/node_modules/chromedriver/lib/chromedriver/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/node_modules/chromedriver/lib/chromedriver/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/node_modules/chromedriver/lib/chromedriver/chromedriver_linux64.zip" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/node_modules/chromedriver/lib/chromedriver/chromedriver_linux64.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/node_modules/chromedriver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/node_modules/chromedriver/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/test/pageobjects/categories.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/sites/price_navigator/categories.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/test/pageobjects/home.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/sites/price_navigator/home.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/test/pageobjects/products_page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/sites/price_navigator/products_page.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/test/specs/price_navigator.specs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/specs/price_navigator.specs.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriverio-test/wdio.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/webdriverio-test/wdio.conf.js" afterDir="false" />
-    </list>
+    <list default="true" id="c4c86ceb-622b-4e4a-ae8f-ab002a414907" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +15,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="serhii-bohdanov &lt;serega.214108@gmail.com&gt;" />
+        <option value="Serhii" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k0enmUqmpxWWkytk2SYMXqZp69" />
@@ -114,12 +106,46 @@
       <workItem from="1606071258628" duration="917000" />
       <workItem from="1606575216353" duration="2132000" />
       <workItem from="1606584920037" duration="12400000" />
-      <workItem from="1606652245048" duration="7887000" />
+      <workItem from="1606652245048" duration="8208000" />
     </task>
+    <task id="LOCAL-00001" summary="Rozetka specs">
+      <created>1606663226592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606663226592</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Rozetka specs">
+      <created>1606663249906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606663249906</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Rozetka Project">
+      <created>1606663379115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606663379115</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Rozetka Project">
+      <created>1606663387313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606663387313</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rozetka specs" />
+    <MESSAGE value="Rozetka Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rozetka Project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="220" width="1084" height="790" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606652429634">
@@ -131,10 +157,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2613" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604843458335" />
-    <state x="499" y="100" width="912" height="914" key="CommitChangelistDialog2" timestamp="1606587004650">
+    <state x="499" y="100" width="912" height="914" key="CommitChangelistDialog2" timestamp="1606663387213">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="499" y="100" width="912" height="914" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1606587004650" />
+    <state x="499" y="100" width="912" height="914" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1606663387213" />
     <state x="787" y="318" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605457065027">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -148,28 +174,28 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="683" y="239" width="615" height="636" key="Github.UntrackedFilesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605459107487" />
-    <state width="1897" height="279" key="GridCell.Tab.0.bottom" timestamp="1606659404043">
+    <state width="1897" height="279" key="GridCell.Tab.0.bottom" timestamp="1606663230473">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1897" height="279" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1606659404043" />
+    <state width="1897" height="279" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1606663230473" />
     <state width="1897" height="559" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604874490581" />
     <state width="1825" height="258" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605909104419" />
-    <state width="1897" height="279" key="GridCell.Tab.0.center" timestamp="1606659404043">
+    <state width="1897" height="279" key="GridCell.Tab.0.center" timestamp="1606663230472">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1897" height="279" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1606659404043" />
+    <state width="1897" height="279" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1606663230472" />
     <state width="1897" height="559" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604874490581" />
     <state width="1825" height="258" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605909104419" />
-    <state width="1897" height="279" key="GridCell.Tab.0.left" timestamp="1606659404042">
+    <state width="1897" height="279" key="GridCell.Tab.0.left" timestamp="1606663230471">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1897" height="279" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1606659404042" />
+    <state width="1897" height="279" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1606663230471" />
     <state width="1897" height="559" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604874490581" />
     <state width="1825" height="258" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605909104419" />
-    <state width="1897" height="279" key="GridCell.Tab.0.right" timestamp="1606659404043">
+    <state width="1897" height="279" key="GridCell.Tab.0.right" timestamp="1606663230472">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1897" height="279" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1606659404043" />
+    <state width="1897" height="279" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1606663230472" />
     <state width="1897" height="559" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604874490581" />
     <state width="1825" height="258" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605909104419" />
     <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1606649479777">
@@ -240,10 +266,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="273" y="250" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1605820641739" />
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606663139473">
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606663281300">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1606663139473" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1606663281300" />
     <state x="741" y="468" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606587027405">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
